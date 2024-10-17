@@ -22,4 +22,4 @@ I'm:
 - a [Google Summer of Code (GSoC) Participant](https://gist.github.com/vikram-s-narayan/01943ad8c52fe35f09d0749acd9ca11a) and Contributor to the Julia Surrogates.jl library
 
 
-Reach me by email - [vikramsnarayan@gmail.com](vikramsnarayan@gmail.com) or connect on [LinkedIn]([url](https://www.linkedin.com/in/vikramadityanarayan/))
+Reach me by email - [vikramsnarayan@gmail.com](vikramsnarayan@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/vikramadityanarayan/)
