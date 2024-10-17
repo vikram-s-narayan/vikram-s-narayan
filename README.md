@@ -20,7 +20,7 @@ I'm:
 - learning about FHIR and healthcare interoperability (aka making things work inside Epic EHR)
 - the creator of a [course on large language models for corporate leaders](https://learn.ascendusai.com/)
 - the creator of a workshop for doctors called "Reimagining Your Practice" which talks about how doctors can harness AI - see slides [here](https://github.com/vikram-s-narayan/vikram-s-narayan/blob/main/ReimaginingYourPractice.pdf)
-- a [Google Summer of Code (GSoC) Participant](https://gist.github.com/vikram-s-narayan/01943ad8c52fe35f09d0749acd9ca11a) and Contributor to the Julia Surrogates.jl library
+- a [Google Summer of Code (GSoC) Participant](https://gist.github.com/vikram-s-narayan/01943ad8c52fe35f09d0749acd9ca11a) and former contributor to the Julia Surrogates.jl library
 
 Skills:
 - 
