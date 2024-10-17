@@ -24,9 +24,10 @@ I'm:
 
 Skills:
 - 
-Langchain and Langgraph
-AWS Bedrock and other AWS technologies
-React, Streamlit, FastAPI, Web scraping(Playwright) and other adjacent technologies
+- Langchain and Langgraph
+- AWS Bedrock and other AWS technologies
+- React, Streamlit, FastAPI, Web scraping(Playwright), PostgreSQL and other adjacent technologies
+- [FHIR](https://fhir.org/) and related API's like Epic and Cerner
 
 
 
