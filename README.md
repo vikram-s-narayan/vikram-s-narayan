@@ -15,11 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm:
+-
 - currently working on AI solutions for revenue cycle management in the US healthcare space 
 - learning about FHIR and healthcare interoperability (aka making things work inside Epic EHR)
 - the creator of a [course on large language models for corporate leaders](https://learn.ascendusai.com/)
 - the creator of a workshop for doctors called "Reimagining Your Practice" which talks about how doctors can harness AI - see slides [here](https://github.com/vikram-s-narayan/vikram-s-narayan/blob/main/ReimaginingYourPractice.pdf)
 - a [Google Summer of Code (GSoC) Participant](https://gist.github.com/vikram-s-narayan/01943ad8c52fe35f09d0749acd9ca11a) and Contributor to the Julia Surrogates.jl library
+
+Skills:
+- 
+Langchain and Langgraph
+AWS Bedrock and other AWS technologies
+React, Streamlit, FastAPI, Web scraping(Playwright) and other adjacent technologies
+
 
 
 Reach me by email - [vikramsnarayan@gmail.com](vikramsnarayan@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/vikramadityanarayan/)
