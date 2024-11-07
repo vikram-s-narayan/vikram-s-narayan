@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 I'm:
 -
-- currently working on AI solutions for revenue cycle management in the US healthcare space 
-- learning about FHIR and healthcare interoperability (aka making things work inside Epic EHR)
+- currently developing an open-source tool to help AI Governance teams in large healthcare systems 
+- learning how to manage patient safety, compliance, and legal risks associated with AI in healthcare
 - the creator of a [course on large language models for corporate leaders](https://learn.ascendusai.com/)
 - the creator of a workshop for doctors called "Reimagining Your Practice" which talks about how doctors can harness AI - see slides [here](https://github.com/vikram-s-narayan/vikram-s-narayan/blob/main/ReimaginingYourPractice.pdf)
 - a [Google Summer of Code (GSoC) Participant](https://gist.github.com/vikram-s-narayan/01943ad8c52fe35f09d0749acd9ca11a) and former contributor to the Julia Surrogates.jl library
